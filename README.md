@@ -6,3 +6,5 @@ Currently only support checking inventory of Office Depot
 One time check one sku with multiple zip codes is supported
 
 Results are sorted and contain no duplicates
+
+Job is devided into multiple threads to improve the excution time efficiency 
