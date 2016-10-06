@@ -5,4 +5,4 @@ Currently only support to check inventory of Office Depot
 
 One time check one sku with multiple zip codes is supported
 
-Results is sorted and contains no duplicates
+Results are sorted and contain no duplicates
